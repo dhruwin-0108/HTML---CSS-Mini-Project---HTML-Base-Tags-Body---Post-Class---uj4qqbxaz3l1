@@ -73,6 +73,9 @@ html {
     background-color: #111;
     color: #fff;
     padding: 20px;
+    width: 60vw;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .ptext .border.trans {
